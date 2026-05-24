@@ -28,5 +28,5 @@ To clean and analyze sales data and build an interactive dashboard to identify s
 - Analyzed overall business performance
 
 ## Dashboard Preview
-Dashboard.png.png
+![Dashboard](dashboard.png)
 
